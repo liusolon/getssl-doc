@@ -1,6 +1,6 @@
 # getssl-doc
 
-The getssl-doc help you to deploy Let’s Encrypt free certificate.
+The getssl-doc help you to deploy Let’s Encrypt free certificate on Apache server.
 
 # Overview
 
